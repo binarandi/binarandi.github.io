@@ -5,4 +5,4 @@ permalink: /about/
 includelink: true
 ---
 
-I'm mostly active on [Twitter](https://twitter.com/binarandi).
+I'm the founder of [Trek](https://www.trek.id/). I'm mostly active on [Twitter](https://twitter.com/binarandi).
