@@ -18,6 +18,6 @@ Here's [an example](https://www.whatmatters.com/faqs/okr-examples-and-how-to-wri
 Objective: __Win the World Cup__\
 Key Result #1: Average scored goals rate of 2.0 throughout the tournament.\
 Key Result #2: Average conceded goals rate of 0.5 throughout the tournament.\
-Key Result #3: Ball possession rate of 75%.\
+Key Result #3: Ball possession rate of 75%.
 
 I don’t think that’s how you win a World Cup. Good stats alone don't guarantee you winning in sports. I mean, if all of the key results above was accomplished but you didn't win the World Cup, would you still call that a success?
