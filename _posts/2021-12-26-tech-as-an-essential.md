@@ -4,7 +4,7 @@ title: "Tech as an Essential"
 date: 2021-12-26 23:07:00 +0700
 ---
 
-This evening I went to one of my favorite restaurants since I was young for dinner. It's been a while since the last time I went there because of the pandemic. Apparently now they don't give you menu book anymore. I hate it.
+This evening I went to one of my favorite restaurants since I was young for dinner. It's been a while since the last time I went there because of the pandemic. Apparently now they don't give you menu book anymore. I hated it.
 
 I ordered by scanning a QR code displayed on the table, and soon I was directed to a website (by a third party) that basically showed the picture of the menu. The website was laggy, the pictures weren't properly sized for mobile (obviously people didn't use their laptop to scan the QR), and it needed too many clicks just to get a rough understanding of what's on the menu.
 
@@ -18,4 +18,4 @@ This trend is escalated a lot by covid. In Indonesia, you have to use your smart
 
 I'm not being an anti-tech here. And it's also not about some Orwellian paranoia about how the big tech and the government might use tech to spy and manipulate people (although this is a valid concern). I get that smartphone helps you to do a lot of things _that can only be done on such scale_ with smartphone technology such as ridesharing and food delivery. But those things are a luxury, and people should have an _option_ to choose to not having that luxury. Some people are fine with the idea of having no access to ridesharing and food delivery services, but they shouldn’t be prohibited for doing basic stuffs, like ordering at a restaurant or entering public places.
 
-But this is probably a sign of times a-changin’. Smartphone penetration in Indonesia [passed 70%](https://www.statista.com/statistics/321485/smartphone-user-penetration-in-indonesia/) this year, and the number will only keep rising. Soon enough (or you can say it’s already the case), everyone will have a smartphone. The sad thing is: 10 years ago people bought smartphone because they _wanted_ to; now people (might) buy a smartphone because _they have to_.
+But this is probably a sign of the times they are a-changin’. Smartphone penetration in Indonesia [passed 70%](https://www.statista.com/statistics/321485/smartphone-user-penetration-in-indonesia/) this year, and the number will only keep rising. Soon enough (or you can say it’s already the case), everyone will have a smartphone. The sad thing is: 10 years ago people bought smartphone because they _wanted_ to; now people (might) buy smartphone because _they have to_.
