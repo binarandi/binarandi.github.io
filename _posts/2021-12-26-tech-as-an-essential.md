@@ -8,7 +8,7 @@ This evening I went to one of my favorite restaurants since I was young for dinn
 
 I ordered by scanning a QR code displayed on the table, and soon I was directed to a website (by a third party) that basically showed the picture of the menu. The website was laggy, the pictures weren't properly sized for mobile (obviously people didn't use their laptop to scan the QR), and it needed too many clicks just to get a rough understanding of what's on the menu.
 
-The QR system only made my experience in ordering food worse. Literally it didn't provide any additional value. It's not like I ordered through a web app pointed by the QR and the order would be directly received by the chef, therefore it eliminated the need of a waiter. No, a waiter still collected my order. A menu book would make the ordering process 10x better. A bad user experience. And the poor UX wasn't even the main problem.
+The QR system only made my experience in ordering food worse. Literally it didn't provide any additional value. It's not like I ordered through a web app pointed by the QR and the order would be directly received by the chef, therefore it eliminated the need of a waiter. No, a waiter still collected my order. A menu book would make the ordering process 10x better. Bad user experience. And the poor UX wasn't even the main problem.
 
 My biggest problem was about the new trend of forcing people to do everything using their phone, for basic stuffs. It basically converts phone from a luxury product into a necessity.
 
