@@ -1,4 +1,5 @@
 url: binarandi.github.io
+baseurl: ""
 theme: minima
 title: in its right place
 author: Ghazi Binarandi
