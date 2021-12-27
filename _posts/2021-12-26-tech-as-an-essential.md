@@ -12,7 +12,7 @@ The QR system only made my experience in ordering food worse. Literally it didn'
 
 My biggest problem was about the new trend of forcing people to do everything using their phone, for basic stuffs. It basically converts phone from a luxury product into a necessity.
 
-We are transitioning from the era of "There's an app for that!" to "You have to use the app to do that!" In the good "old" days, smartphone helps you to do things. In today's time, smartphone is required for you to do things.
+We are transitioning from the era of "There's an app for that" to "You have to use the app to do that." In the good "old" days, smartphone helps you to do things. In today's time, smartphone is required for you to do things.
 
 This trend is accelerated by covid. In Indonesia, you have to use your smartphone to register for a covid testing, enter a public place, and so on. Tech has now become an essential.
 
