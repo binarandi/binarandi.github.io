@@ -5,7 +5,7 @@ date: 2021-12-26 00:32:00 +0700
 published: true
 ---
 
-I just watched the football match between Indonesia and Singapore, and the whole thing made me questioned one thing: “what does an OKR of a football coach (or it can be any sports, really) look like?”
+I just watched the football match between Indonesia and Singapore, and the whole thing made me questioned one thing: “what does an [OKR](https://en.wikipedia.org/wiki/OKR) of a football coach (or it can be any sports, really) look like?”
 
 The game ended 4-2 for Indonesia’s win after some dramas including a missed penalty and 3 red cards for Singapore. The match itself was full of referee errors (according to my amateurish observation). Singapore’s #21 shouldn’t be booked the first yellow (he got red carded 10 minutes later). Indonesia’s second goal—the one that secured them a draw and led the game to the extra time—was supposed to be offside. These errors completely dictated the outcome of the game.
 
